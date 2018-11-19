@@ -7,7 +7,7 @@ end
 end
 
 def first_element(array)
-  @taylor_swift[0]
+  array[0]
 end
 
 def third_element(array)
