@@ -17,3 +17,5 @@ end
 def last_element(array)
   @taylor_swift.last
 end
+
+def first_element
