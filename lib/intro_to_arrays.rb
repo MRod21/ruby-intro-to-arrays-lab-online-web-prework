@@ -15,5 +15,5 @@ def third_element(array)
 end
 
 def last_element(array)
-  @taylor_swift[-1]
+  @taylor_swift.last
 end
